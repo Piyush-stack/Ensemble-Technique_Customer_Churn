@@ -86,7 +86,7 @@ Steps to the project:
 
 6. Conclusion and improvisation:
 
-• Write your conclusion on the results.
+• Conclusion on the results.
 
 • Detailed suggestions or improvements or on quality, quantity, variety, velocity, veracity etc. on the data points collected by the
 telecom operator to perform a better data analysis in future.
